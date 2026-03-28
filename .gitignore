@@ -1,0 +1,5 @@
+*.zip
+*.assets
+*.dat
+__pycache__/
+*.pyc
